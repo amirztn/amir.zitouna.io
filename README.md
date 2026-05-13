@@ -1,11 +1,5 @@
 # 👋 Bonjour, je suis Amir Zitouna
 
-🎓 Étudiant en **Prépa ATS** et diplômé d’un **BTS CIEL (Cybersécurité, Informatique et Réseaux)**.  
-Passionné par **l'informatique, les réseaux et la cybersécurité**, je souhaite intégrer une **école d’ingénieur** afin de concevoir des systèmes innovants et sécurisés.
-
----
-
-## 🚀 À propos de moi
 
 - 🎓 Étudiant en **Prépa ATS – futur ingénieur**
 - 🔐 Passionné par la **cybersécurité et les réseaux**
