@@ -52,7 +52,7 @@
 ## 📂 Projets
 
 ### 🌐 Application Web IoT – Collecte & Visualisation de données capteurs
-**2024 – 2025** | [Voir sur GitHub](https://github.com/zitounaamir/...) *(à compléter avec le lien réel)*
+
 
 - Développement d’une application Flask récupérant les données de **5 capteurs IoT** en temps réel
 - Transmission via **MQTT** (Mosquitto), stockage dans **MariaDB**
